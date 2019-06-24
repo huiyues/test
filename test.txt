@@ -3,3 +3,5 @@ zhe shi yige xin de yu ju this is a longxiuwen my name is baba
  'master' does not appear to be a git repository
  zhe shi xiugai hou d shuju huo zhe shi tianjai d shuju 
 fatal: Could not read from remote repository.
+这是在分子中添加数据
+
